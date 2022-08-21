@@ -4,12 +4,17 @@ This final project should be conducted and completed in a group. Students should
 presented in Section F. Below is the submission details. 
 
 1 Names for the group members Students Names Friday, 25/06/2021
+
 2 Selected topics Title of topics Monday, 28/06/2021
-3 A statement of interests One-page written statement Thursday, 01/07/ 2021. 
+
+3 A statement of interests One-page written statement Thursday, 01/07/ 2021.
+
 4 Report and presentation on data collection , Oral presentation and PPT document
 Thursday, 08/07/ 2021
+
 5 Report and presentation on  data analysis
 Oral presentation and PPT document
 Thursday, 15/07/ 2021
+
 6 A statement of an application domain, One-page written document that covers the title of the domain, title of the application and its descriptions
 Thursday, 15/07/2021

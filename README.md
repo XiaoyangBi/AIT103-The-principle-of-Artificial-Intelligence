@@ -18,3 +18,9 @@ Thursday, 15/07/ 2021
 
 6 A statement of an application domain, One-page written document that covers the title of the domain, title of the application and its descriptions
 Thursday, 15/07/2021
+
+7 A conceptual design of the application，A blueprint design (text description/diagram).
+Thursday, 19/07/ 2021
+
+8 Report for the final project, and code (if available). A document in PDF format. The number of pages ranging from 10–25 pages, 1.5 spacing, Times Roman font type, size 12. 
+Monday, 26/07/ 2021
